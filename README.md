@@ -1,4 +1,4 @@
-# assignment1
+# Prime Number Checker
 
 A new Flutter project.
 
